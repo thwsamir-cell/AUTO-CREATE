@@ -32,12 +32,17 @@ git clone https://github.com/thwsamir-cell/AUTO-CREATE.git
 cd AUTO-CREATE
 
 python Samir.py
+
 ‎
 ‎___This Tools is free enjoy.___</br>
+
 ‎
-‎RUN VAYE NA VANI INBOX AU TOOL 👑👆
+‎RUN VAYE NA VANI INBOX AU TOOL 
+
 ‎```
 ‎
 ‎___LAH AABA SAB LE UNIKER KO AAMA RANDI HO VANA :(.___</br>
+
+
 ‎
 ‎MOJ MASTI GARA MERO KTA HO=<img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
