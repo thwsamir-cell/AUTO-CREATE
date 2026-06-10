@@ -16,9 +16,10 @@ AUTO CREATE TOOL HO <img src="https://emojis.slackmojis.com/emojis/images/158831
 ‎[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF2C10&background=31FF9400&width=435&lines=TIMRO+SAMIR+DAII+HACKER+BANNA+LAKO+XA+DEAR%F0%9F%A4%9F)](https://git.io/typing-svg)
 ‎
 ‎```
-‎# COMMAND 👇👇
+‎ COMMAND 👇
+
 ‎
-‎
+
 ‎
 pip install pyotp  
 
